@@ -110,6 +110,8 @@ $(function() {
     }
 // //3. 
     
+
+
     async function showCards(){
         let $btn = $('button');
         let $cardArea = $('#card-area');
